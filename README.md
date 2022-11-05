@@ -9,4 +9,4 @@ GITHUB_REPO=
 HEROKU_APP=
 ```
 
-Please refer to the description of Homework-7, Full-Stack JavaScript (Fall 2021) for details.
+Please refer to the description of Homework-6, Full-Stack JavaScript (Fall 2022) for details.
